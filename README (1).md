@@ -16,11 +16,22 @@ To run this on your system follow the steps
 1.  Install jupyter lab on you computer with 
 `pip install jupyter lab` and `pip install notebook`
 
-2.`jupyter lab` run this command on cmd to provide with kernel to your system to run i`pynb` file
+2.`jupyter lab` run this command on cmd to provide with kernel to your system to run `ipynb` file
 
 3. download this repo
 
 4.search for the file named `auto_crrct.ipynb` and run it on `vscode`
+
+
+
+## DEMO
+
+
+
+https://github.com/shivam-23111/BHARAT_INTERN_TASK2/assets/98504696/3c0eca68-eaa7-468f-aced-0527bff55db7
+
+
+
 
 
 
